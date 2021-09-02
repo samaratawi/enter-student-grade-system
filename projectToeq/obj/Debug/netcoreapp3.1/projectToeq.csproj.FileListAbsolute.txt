@@ -1,0 +1,13 @@
+C:\Users\homSa\source\repos\projectToeq\projectToeq\bin\Debug\netcoreapp3.1\projectToeq.exe
+C:\Users\homSa\source\repos\projectToeq\projectToeq\bin\Debug\netcoreapp3.1\projectToeq.deps.json
+C:\Users\homSa\source\repos\projectToeq\projectToeq\bin\Debug\netcoreapp3.1\projectToeq.runtimeconfig.json
+C:\Users\homSa\source\repos\projectToeq\projectToeq\bin\Debug\netcoreapp3.1\projectToeq.runtimeconfig.dev.json
+C:\Users\homSa\source\repos\projectToeq\projectToeq\bin\Debug\netcoreapp3.1\projectToeq.dll
+C:\Users\homSa\source\repos\projectToeq\projectToeq\bin\Debug\netcoreapp3.1\projectToeq.pdb
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.csproj.AssemblyReference.cache
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.AssemblyInfoInputs.cache
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.AssemblyInfo.cs
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.csproj.CoreCompileInputs.cache
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.dll
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.pdb
+C:\Users\homSa\source\repos\projectToeq\projectToeq\obj\Debug\netcoreapp3.1\projectToeq.genruntimeconfig.cache
